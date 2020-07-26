@@ -1,0 +1,11 @@
+html{
+    background-color: red;
+}
+
+
+.nav-wrapper{
+    display: flex;
+}
+.leftside{
+    display: flex;
+}
